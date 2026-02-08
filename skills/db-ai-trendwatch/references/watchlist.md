@@ -6,6 +6,7 @@ Use this as the baseline watchlist. Ask the user to add/remove or prioritize by 
 - Databricks (Data Intelligence Platform / Lakehouse)
 - PingCAP (TiDB, distributed SQL)
 - TiDB (distributed SQL database)
+- OceanBase (distributed SQL database)
 - Snowflake (AI Data Cloud)
 - Microsoft Fabric (OneLake + platform Copilot ecosystem)
 - Google BigQuery (data-to-AI platform)
