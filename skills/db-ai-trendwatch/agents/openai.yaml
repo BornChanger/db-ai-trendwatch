@@ -1,0 +1,4 @@
+interface:
+  display_name: "DB AI Trendwatch"
+  short_description: "Track AI support trends in database platforms."
+  default_prompt: "Use $db-ai-trendwatch to produce a concise brief on AI support trends in the database industry."
