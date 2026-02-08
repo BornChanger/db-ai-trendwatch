@@ -19,6 +19,7 @@ Use this as the baseline watchlist. Ask the user to add/remove or prioritize by 
 - Zilliz / Milvus (vector database ecosystem)
 - Qdrant (vector database)
 - Vespa.ai (AI search + vector retrieval)
+- Tacnode (context lake, unified relational + vector + full-text)
 - Elastic / Elasticsearch (full-text + vector)
 - OpenSearch (full-text + vector)
 - SingleStore (vector + full-text)
