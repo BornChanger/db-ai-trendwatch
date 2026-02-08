@@ -54,6 +54,7 @@ Use this as the baseline watchlist. Ask the user to add/remove or prioritize by 
 - Sridhar Ramaswamy (Snowflake CEO)
 - Christian Kleinerman (Snowflake SVP Product)
 - Arun Ulagaratchagan (Microsoft CVP, Azure Data)
+- Ed Huang (PingCAP)
 
 ## People: AI-native / vector leaders
 - Ash Ashutosh (Pinecone CEO)
