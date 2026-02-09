@@ -1,28 +1,34 @@
-# DB AI Trendwatch
+# DB Skills Collection
 
-A Codex skill for monitoring and analyzing AI-ready and AI-native trends across the database and data platform ecosystem.
+A small collection of Codex skills focused on databases, data platforms, and AI.
 
-## What's included
-- The skill itself: `skills/db-ai-trendwatch`
-- Reference templates and watchlists for sources, signals, and reporting
+## Skills
+
+- `skills/db-ai-trendwatch`: Monitor and analyze AI capability trends across
+  databases and data platforms.
+- `skills/db-saas-trendwatch`: Monitor and analyze trends in how SaaS products
+  use databases (multi-tenant patterns, scaling, migrations, analytics/search/AI).
+- `skills/hn-data-ai-7d`: Summarize the last 7 days of HN discussion on data + AI
+  database topics.
 
 ## Install
-Clone and copy the skill into your Codex skills directory:
+Clone and copy the skill you want into your Codex skills directory:
 ```
 git clone https://github.com/BornChanger/db-ai-trendwatch
 cd db-ai-trendwatch
-cp -R skills/db-ai-trendwatch ~/.codex/skills/
+cp -R skills/<skill-name> ~/.codex/skills/
 ```
 
 Or symlink it:
 ```
-ln -s /path/to/db-ai-trendwatch/skills/db-ai-trendwatch ~/.codex/skills/db-ai-trendwatch
+ln -s /path/to/db-ai-trendwatch/skills/<skill-name> ~/.codex/skills/<skill-name>
 ```
 
 ## How to use
-Invoke the skill in Codex with a request like:
+Invoke a skill by name in Codex, for example:
 - "Use db-ai-trendwatch to generate a weekly brief for the last 30 days."
-- "Use db-ai-trendwatch to compare AI-ready and AI-native capabilities across Databricks, Snowflake, and BigQuery."
+- "Use db-saas-trendwatch to summarize SaaS database architecture trends."
+- "Use hn-data-ai-7d to summarize HN threads from the last 7 days."
 
 ## License
 Apache-2.0. See `LICENSE` and `NOTICE`.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "HN Data+AI 7D"
+  short_description: "Summarize 7-day HN data+AI DB threads"
+  default_prompt: "Summarize the most-discussed data+AI database threads on HN from the last 7 days."
